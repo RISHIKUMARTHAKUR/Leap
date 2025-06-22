@@ -1,4 +1,4 @@
-# 🌐 Leap Career Catalyst
+# 🌐 Leap Career Catalyst - https://leap-rishi-kumar-thakurs-projects.vercel.app/
 
 A career-launch platform built to empower 1M+ Indian international students in the US with hands-on experience, referrals, and industry-aligned skills — helping them break the "fresher" tag and land top jobs.
 
@@ -135,9 +135,7 @@ Leap Career Catalyst builds experience, connection, and confidence — all in on
 
 ---
 
-## 📬 Contact
 
-Want to contribute or partner? Drop a message at [your-email@example.com] or connect on [LinkedIn](https://linkedin.com/in/yourprofile)
 
 ---
 
